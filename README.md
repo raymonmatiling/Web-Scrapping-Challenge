@@ -43,6 +43,6 @@ d. Required: [CSV File](https://github.com/raymonmatiling/Web-Scrapping-Challeng
 
 ### Shortcuts
 
-- [Mars News Notebook](https://github.com/Ahmadhha/sqlalchemy-challenge/blob/main/climate_starter.ipynb)
+- [Mars News Notebook](https://github.com/raymonmatiling/Web-Scrapping-Challenge/blob/main/part_1_mars_news.ipynb)
 
-- [Mars Weather Facts Notebook](https://github.com/Ahmadhha/scraping_and_analysis-challenge/blob/main/part_2_mars_weather.ipynb)
+- [Mars Weather Facts Notebook](https://github.com/raymonmatiling/Web-Scrapping-Challenge/blob/main/part_2_mars_weather.ipynb)
