@@ -1,4 +1,4 @@
-# Web Scraping and Analysis - Challenge
+# Web Scraping and Analysis 
 
 ## Background
 
